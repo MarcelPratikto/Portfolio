@@ -50,13 +50,3 @@ st.video("https://youtu.be/vGSW8i1kw-0")
 
 for i in range(3):
     st.text(" \n")
-
-# #=======================================================================================================
-# # GESCI 208 - Introduction to Robotics
-# #=======================================================================================================
-# st.markdown("### GESCI 208 - Introduction to Robotics")
-
-# st.video("https://youtu.be/6bskAiW3PA8")
-
-# for i in range(3):
-#     st.text(" \n")
