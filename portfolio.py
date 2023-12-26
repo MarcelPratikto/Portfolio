@@ -6,6 +6,10 @@ import streamlit as st
 #=======================================================================================================
 # Title
 #=======================================================================================================
+st.set_page_config(
+    page_title="Marcel's Portfolio"
+)
+
 st.markdown("# Portfolio")
 
 st.markdown("##### by Marcel Pratikto")
